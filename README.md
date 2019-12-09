@@ -3,7 +3,7 @@ Until 2019-12-01 19:09:05, I have solved **10** / **1180** problems while **204*
 
 Completion statistic: 
 1. JavaScript: 0 
-2. Python: 10
+2. Python: 4
 3. C++: 0
 4. Java: 0
 
@@ -13,10 +13,10 @@ Note: :lock: means you need to buy a book from LeetCode
 ## LeetCode Solution Table
 | ID | Title | Difficulty | JavaScript | Python | C++ | Java |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|001|[Two Sum](https://leetcode.com/problems/two-sum/description/) |Easy|To Do|[Python](https://github.com/rongpenl/algorithms-and-oj/blob/master/leetcode-algorithms/001.%20Two%20Sum/twosum.py)|To Do|To Do|
-|002|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) |Medium|To Do|[Python](https://github.com/rongpenl/algorithms-and-oj/blob/master/leetcode-algorithms/002.%20Add%20Two%20Numbers/add2nums.py)|To Do|To Do|
+|001|[Two Sum](https://leetcode.com/problems/two-sum/description/) |Easy|To Do|To Do|To Do|To Do|
+|002|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) |Medium|To Do|To Do|To Do|To Do|
 |003|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) |Medium|To Do|To Do|To Do|To Do|
-|004|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/) |Hard|To Do|[Python](https://github.com/rongpenl/algorithms-and-oj/blob/master/leetcode-algorithms/004.%20Median%20of%20Two%20Sorted%20Arrays/medianof2sortedarray.py)|To Do|To Do|
+|004|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/) |Hard|To Do|To Do|To Do|To Do|
 |005|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/) |Medium|To Do|To Do|To Do|To Do|
 |006|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/description/) |Medium|To Do|To Do|To Do|To Do|
 |007|[Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) |Easy|To Do|To Do|To Do|To Do|
