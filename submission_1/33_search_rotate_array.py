@@ -31,37 +31,33 @@ class Solution(object):
         :type target: int
         :rtype: int
         """
-        if len(nums) == 0:
-            return -1        
-        if target == nums[0]:
-            return 0
-        elif target == nums[-1]:
-            return len(nums) - 1
-        elif len(nums) == 2 or len(nums) == 1:
+        if (len(nums) == 0) or (nums is None):
             return -1
         
         strt = 0
-        end_ = len(nums) - 1
+        end = len(nums) - 1
         
-        while strt < end_:
-            mid = (strt + end_)//2
-            num_mid = nums[mid]
-            num_strt = nums[strt]
-            num_end = nums[end_]
+        while(strt + 1 < end):
+            mid = strt + (end-strt)//2
             
-            if target == num_mid:
+            if nums[mid] == target:
                 return mid
-            
-            if num_strt < num_mid:
-                if num_strt <= target and num_mid > target:
-                    end_ = mid                
+            elif nums[strt] > nums[mid]:
+                if (nums[mid] < target) & (nums[end] >= target):
+                    strt = mid
                 else:
-                    strt = mid + 1
-            elif num_strt > num_mid:
-                if num_mid < target and target <= num_end:
-                    strt = mid + 1
+                    end = mid
+            elif nums[strt] < nums[mid]:
+                if (nums[strt] <= target) & (nums[mid] > target):
+                    end = mid
                 else:
-                    end_ = mid
+                    strt = mid
+                    
+        if nums[strt] == target:
+            return strt
+        if nums[end] == target:
+            return end
+        
         return -1
 
 if __name__ == '__main__':
