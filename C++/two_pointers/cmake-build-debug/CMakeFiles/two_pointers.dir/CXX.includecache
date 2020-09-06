@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/jinwensun/Dropbox/AprilMAC/code/github/Leetcode/C++/two_pointers/283.h
+vector
+-
+
+/Users/jinwensun/Dropbox/AprilMAC/code/github/Leetcode/C++/two_pointers/360.h
+vector
+-
+stdlib.h
+-
+
+/Users/jinwensun/Dropbox/AprilMAC/code/github/Leetcode/C++/two_pointers/main.cpp
+iostream
+-
+283.h
+/Users/jinwensun/Dropbox/AprilMAC/code/github/Leetcode/C++/two_pointers/283.h
+360.h
+/Users/jinwensun/Dropbox/AprilMAC/code/github/Leetcode/C++/two_pointers/360.h
+
