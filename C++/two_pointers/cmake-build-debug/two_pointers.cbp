@@ -80,7 +80,16 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/Users/jinwensun/Dropbox/AprilMAC/code/github/Leetcode/C++/two_pointers/125.h">
+			<Option target="two_pointers"/>
+		</Unit>
+		<Unit filename="/Users/jinwensun/Dropbox/AprilMAC/code/github/Leetcode/C++/two_pointers/142.h">
+			<Option target="two_pointers"/>
+		</Unit>
 		<Unit filename="/Users/jinwensun/Dropbox/AprilMAC/code/github/Leetcode/C++/two_pointers/26.h">
+			<Option target="two_pointers"/>
+		</Unit>
+		<Unit filename="/Users/jinwensun/Dropbox/AprilMAC/code/github/Leetcode/C++/two_pointers/344.h">
 			<Option target="two_pointers"/>
 		</Unit>
 		<Unit filename="/Users/jinwensun/Dropbox/AprilMAC/code/github/Leetcode/C++/two_pointers/345.h">
@@ -90,6 +99,9 @@
 			<Option target="two_pointers"/>
 		</Unit>
 		<Unit filename="/Users/jinwensun/Dropbox/AprilMAC/code/github/Leetcode/C++/two_pointers/633.h">
+			<Option target="two_pointers"/>
+		</Unit>
+		<Unit filename="/Users/jinwensun/Dropbox/AprilMAC/code/github/Leetcode/C++/two_pointers/680.h">
 			<Option target="two_pointers"/>
 		</Unit>
 		<Unit filename="/Users/jinwensun/Dropbox/AprilMAC/code/github/Leetcode/C++/two_pointers/75.h">
