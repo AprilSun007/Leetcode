@@ -22,6 +22,10 @@ vector
 stdlib.h
 -
 
+/Users/jinwensun/Dropbox/AprilMAC/code/github/Leetcode/C++/two_pointers/611.h
+vector
+-
+
 /Users/jinwensun/Dropbox/AprilMAC/code/github/Leetcode/C++/two_pointers/main.cpp
 iostream
 -
@@ -31,6 +35,8 @@ iostream
 /Users/jinwensun/Dropbox/AprilMAC/code/github/Leetcode/C++/two_pointers/360.h
 345.h
 /Users/jinwensun/Dropbox/AprilMAC/code/github/Leetcode/C++/two_pointers/345.h
+611.h
+/Users/jinwensun/Dropbox/AprilMAC/code/github/Leetcode/C++/two_pointers/611.h
 cmath
 -
 string
