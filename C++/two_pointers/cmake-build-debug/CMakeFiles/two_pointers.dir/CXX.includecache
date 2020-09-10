@@ -6,6 +6,10 @@
 
 #IncludeRegexTransform: 
 
+/Users/jinwensun/Dropbox/AprilMAC/code/github/Leetcode/C++/two_pointers/259.h
+vector
+-
+
 /Users/jinwensun/Dropbox/AprilMAC/code/github/Leetcode/C++/two_pointers/283.h
 vector
 -
@@ -37,6 +41,8 @@ iostream
 /Users/jinwensun/Dropbox/AprilMAC/code/github/Leetcode/C++/two_pointers/345.h
 611.h
 /Users/jinwensun/Dropbox/AprilMAC/code/github/Leetcode/C++/two_pointers/611.h
+259.h
+/Users/jinwensun/Dropbox/AprilMAC/code/github/Leetcode/C++/two_pointers/259.h
 cmath
 -
 string
