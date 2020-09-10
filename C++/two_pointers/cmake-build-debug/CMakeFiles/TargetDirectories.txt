@@ -1,3 +1,0 @@
-/Users/jinwensun/Dropbox/AprilMAC/code/github/Leetcode/C++/two_pointers/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/jinwensun/Dropbox/AprilMAC/code/github/Leetcode/C++/two_pointers/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/jinwensun/Dropbox/AprilMAC/code/github/Leetcode/C++/two_pointers/cmake-build-debug/CMakeFiles/two_pointers.dir
