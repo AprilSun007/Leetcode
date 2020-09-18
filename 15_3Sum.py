@@ -107,7 +107,7 @@ class Solution1(object):
                 
         return result
     
-class Solution:
+class Solution0:
     def threeSum(self, nums):
         """
         :type nums: List[int]
@@ -142,6 +142,36 @@ class Solution:
             
         return [list(r) for r in result]
 
+# best solution two-pointers 
+class Solution:
+    def threeSum(self, nums):
+        """
+        :type nums: List[int]
+        :rtype: List[List[int]]
+        """
+            
+        nums.sort()
+        result = set()
+        for i in range(len(nums)):
+            if nums[i] > 0:
+                break
+            if i > 0 and nums[i] == nums[i-1]:
+                continue
+            j = i + 1
+            k = len(nums) - 1
+            
+            while(j < k):
+                if nums[j] + nums[k] >  -1 * nums[i]:
+                    k -=1
+                elif nums[j] + nums[k] < -1 * nums[i]:
+                    j += 1
+                else:
+                    result.add(tuple([nums[i], nums[j], nums[k]]))
+                    j += 1
+                    
+        return [list(l) for l in result]
+                
+                
 
 if __name__ == '__main__':
    
